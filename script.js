@@ -1,4 +1,4 @@
-const form = document.getElementById("Progress Form");
+const form = document.getElementById("ProgressForm");
 const result = document.getElementById("result");
 
 function ProgressCategory(topics, hours, rating) {
